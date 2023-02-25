@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  ### Hello, hello. (**)  
+  ### Hello, hello. 
 
 Hello.
   #### Find me here:

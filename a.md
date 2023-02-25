@@ -2,7 +2,6 @@
   
   ### Hello, hello. 
 
-Hello.
   #### Find me here:
 <div id="badges">
   <a href="https://discord.com/users/719243716853891163">

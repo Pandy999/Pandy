@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  ### Hello, hello. 
+  ### Ding dong.
 
   #### Find me here:
 <div id="badges">
@@ -27,7 +27,7 @@
   
 ---
 
-###  Stats (lol):
+###  Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pandy999&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandy999&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

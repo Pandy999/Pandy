@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  ### Ding dong.
+  ### Ding dong...
 
   #### Find me here:
 <div id="badges">

@@ -2,7 +2,7 @@
   
   ### Ding dong...
 
-  ### Find me here:
+  #### Find me here:
 <div id="badges">
   <a href="https://discord.com/users/719243716853891163">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Youtube Badge"/>
